@@ -28,3 +28,5 @@ DOMAIN-SUFFIX,ai-service.diabrowser.engineering,IEPL|US 美国03 MITM
 DOMAIN-SUFFIX,clientstream.launchdarkly.com,IEPL|US 美国03 MITM
 DOMAIN-SUFFIX,releases.diabrowser.com,IEPL|US 美国03 MITM
 ```
+
+[***dia.conf***](https://raw.githubusercontent.com/QIAO1520/Dia-PROXY/refs/heads/main/dia.conf) 
