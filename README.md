@@ -17,4 +17,5 @@ DOMAIN-SUFFIX,releases.diabrowser.com
 
 不知道怎么添加的看下图，在配置-（你正在使用的配置边上的！）-右上角加号添加
 
-![image|420x500](upload://d1wZff9pcRLM4oKZMSvGUjvft23.jpeg)
+<img width="627" height="746" alt="image" src="https://github.com/user-attachments/assets/3419bfe2-1254-4e56-b3d5-dc17b756c08a" />
+
